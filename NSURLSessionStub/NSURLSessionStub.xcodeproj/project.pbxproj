@@ -14,7 +14,6 @@
 		BB4823791C55EF30002CF7ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB4823771C55EF30002CF7ED /* LaunchScreen.storyboard */; };
 		BB4823841C55EF30002CF7ED /* NSURLSessionStubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4823831C55EF30002CF7ED /* NSURLSessionStubTests.swift */; };
 		BB48238F1C55EFF8002CF7ED /* URLSessionMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB48238E1C55EFF8002CF7ED /* URLSessionMock.swift */; };
-		BB4823901C55EFF8002CF7ED /* URLSessionMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB48238E1C55EFF8002CF7ED /* URLSessionMock.swift */; };
 		BB4823921C55F6C8002CF7ED /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4823911C55F6C8002CF7ED /* User.swift */; };
 		BB4823941C55F77C002CF7ED /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4823931C55F77C002CF7ED /* APIClient.swift */; };
 		BB4823961C55F8E6002CF7ED /* APIClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4823951C55F8E6002CF7ED /* APIClientTests.swift */; };
@@ -223,7 +222,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB4823961C55F8E6002CF7ED /* APIClientTests.swift in Sources */,
-				BB4823901C55EFF8002CF7ED /* URLSessionMock.swift in Sources */,
 				BB4823841C55EF30002CF7ED /* NSURLSessionStubTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
