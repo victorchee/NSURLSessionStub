@@ -1,0 +1,2 @@
+# NSURLSessionStub
+NSURLSession stub.
